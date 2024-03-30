@@ -26,16 +26,16 @@ What does it look like:
 Продолжительность: 1353.0 минут
 Остановки: 
 ```
-Questions
+FAQ
 -----------
-**Where can I get a token for a telegram bot?**
+**Q: Where can I get a token for a telegram bot?**
 
-Telegram: Contact [@BotFather](https://t.me/BotFather)
+A: Telegram: Contact [@BotFather](https://t.me/BotFather)
 
-**Where can I get the yandex.rasp API?**
+**Q: Where can I get the yandex.rasp API?**
 
-Official website: [yandex.rasp](https://yandex.ru/dev/rasp/raspapi/?ysclid=luec890m9i562783119)
+A: Official website: [yandex.rasp](https://yandex.ru/dev/rasp/raspapi/?ysclid=luec890m9i562783119)
 
-**Why is it so weirdly done?**
+**Q: Why is it so weirdly done?**
 
-I do not know
+A: I do not know
